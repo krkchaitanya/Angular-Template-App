@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "name":"Responsive design",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, alias, quae suscipit inventore id officia quia corrupti eligendi, numquam atque eaque. Nisi harum laboriosam possimus in fugiat. Dicta, voluptatibus, porro.",
+        "image":"computer.png"
+    },
+     {
+        "id":2,
+        "name":"Scalable Apps",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, alias, quae suscipit inventore id officia quia corrupti eligendi, numquam atque eaque. Nisi harum laboriosam possimus in fugiat. Dicta, voluptatibus, porro.",
+        "image":"computer.png"
+    },
+     {
+        "id":3,
+        "name":"Maintainable",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, alias, quae suscipit inventore id officia quia corrupti eligendi, numquam atque eaque. Nisi harum laboriosam possimus in fugiat. Dicta, voluptatibus, porro.",
+        "image":"computer.png"
+    }
+    
+
+]

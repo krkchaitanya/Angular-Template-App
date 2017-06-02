@@ -1,0 +1,42 @@
+body {
+  background-color: lightblue;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  font-family: cursive; }
+  body nav {
+    background-color: midnightblue; }
+
+.jumbotron {
+  margin-top: 0px; }
+  .jumbotron img {
+    width: 100%; }
+
+#temp {
+  font-size: 30px; }
+  #temp h1 {
+    font-size: 50px;
+    border-bottom: 4px solid black;
+    padding-bottom: 20px; }
+  #temp .row {
+    padding-top: 20px;
+    border-bottom: 4px solid brown; }
+
+.jumbotron {
+  background-color: steelblue !important;
+  opacity: .9; }
+
+#about h1 {
+  padding: 30px; }
+#about p {
+  padding: 30px;
+  font-size: 20px; }
+
+#details img {
+  width: 300px;
+  height: 400px; }
+
+#services {
+  padding: 20px; }
+
+/*# sourceMappingURL=style.css.map */

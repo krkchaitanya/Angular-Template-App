@@ -1,0 +1,12 @@
+<div class="container" id="temp">
+    <h1>Templates</h1>
+    <div ng-repeat="temp in temps">
+        <div class="row">
+            <div class="col-md-6" >
+                <img ng-src="{{temp.image}}"><br><br>
+                <a href="#!/template/{{temp.id}}" class="btn btn-info btn-lg">Details</a><br><br>
+            </div>
+        </div>
+    </div>
+    
+</div>
